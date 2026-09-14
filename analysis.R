@@ -6,3 +6,5 @@ median(x)
 mean(x)
 
 plot(y,x)
+
+plot(x, y)
