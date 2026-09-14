@@ -4,3 +4,5 @@ plot(x,y)
 
 median(x)
 mean(x)
+
+plot(y,x)
